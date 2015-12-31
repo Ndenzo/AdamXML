@@ -8,3 +8,5 @@ Je pense aussi encore grrrrrr
 =======
 Je pense aussi
 >>>>>>> origin/master
+
+Voila je pense que c'est mieux
